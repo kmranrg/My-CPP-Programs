@@ -27,6 +27,6 @@ int main()
  cout<<"\nGiven String is Even";
  else if(ch==1)
  cout<<"\nGiven String is Odd";
- cout<<"\n\nThank you...           a program by kumar anurag";
+ cout<<"\n\na program by kumar anurag...";
  return 0;
 }
